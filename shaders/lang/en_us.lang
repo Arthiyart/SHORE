@@ -1,0 +1,102 @@
+//---------- SKY COLOR ----------//
+option.SKY_COLOR=Sky color
+value.SKY_COLOR.0=Realistic
+value.SKY_COLOR.1=Fantasy
+value.SKY_COLOR.2=Aesthetic
+value.SKY_COLOR.3=Dramatic
+//---------- SKY EFFECT ----------//
+option.ATMOSPHERIC_SCATTERING=Atmospheric scattering
+value.ATMOSPHERIC_SCATTERING.0=OFF
+value.ATMOSPHERIC_SCATTERING.1=ON
+//---------- CLOUDS VANILLA DENSITY ----------//
+option.CLOUD_DENSITY=Vanilla clouds density
+value.CLOUD_DENSITY.0.3=Very light
+value.CLOUD_DENSITY.0.5=Light
+value.CLOUD_DENSITY.0.7=Normal
+value.CLOUD_DENSITY.1.0=Dense
+value.CLOUD_DENSITY.1.3=Very dense
+//---------- CLOUDS STYLE ----------//
+option.CLOUD_STYLE=Clouds style
+value.CLOUD_STYLE.0=Vanilla
+value.CLOUD_STYLE.1=Realistic
+//---------- CLOUDS SETTINGS ----------//
+option.CLOUD_FOG_DISTANCE=Clouds fog distance
+option.CLOUD_FOG_INTENSITY=Clouds fog intensity
+option.CLOUD_SPEED=Clouds speed
+option.CLOUD_PERMUTATION_SPEED=Clouds permutation speed
+option.CLOUD_DETAIL=Clouds octaves
+option.CLOUD_HOLES=Cloud holes density
+option.CLOUD_SEED=Clouds seed
+//---------- WATER ----------//
+value.WATER.0=Vanilla
+value.WATER.1=Realistic
+option.WATER=Water
+option.WATER_WAVE_SIZE=Water Wave Size
+option.WATER_WAVE_SPEED=Water Wave Speed
+option.WATER_OPACITY=Water Opacity
+option.WATER_RED=Water red
+option.WATER_GREEN=Water green
+option.WATER_BLUE=Water blue
+option.WATER_BRIGHTNESS=Water brightness
+option.REFLECTIONS=Water Reflections
+//---------- WIND ----------//
+value.WIND.0=Off
+value.WIND.1=On
+option.WIND=Wind
+option.GRASS_BOUNCE_STRENGTH=Grass bounce strength
+option.WIND_TURBULENCE=Wind turbulence
+option.WIND_NOISE_SCALE=Wind noise scale
+option.WIND_SPEED=Wind speed
+option.WIND_GUST_SPEED=Wind gust speed
+option.LEAF_WIND_SPEED=Leaves wind speed
+option.WIND_STRENGTH=Wind strength
+option.WIND_GUST_STRENGTH=Wind gust strength
+option.LEAF_WIND_STRENGTH=Leaves wind strength
+//---------- SHADOW ----------//
+option.SHADOW_ENABLED=Shadow
+value.SHADOW_ENABLED.0=Off
+value.SHADOW_ENABLED.1=On
+option.SHADOW_DARKNESS=Shadow darkness
+option.SHADOW_PIXEL=Shadow pixels
+option.shadowMapResolution=Shadow resolutions
+option.shadowDistance=Shadow distances
+//---------- Lighting ----------//
+option.HAND_DYNAMIC_LIGHTING=Hand Dynamic Lighting
+option.DYNAMIC_LIGHT_DISTANCE=Dynamic Light Range
+value.HAND_DYNAMIC_LIGHTING.0=Off
+value.HAND_DYNAMIC_LIGHTING.1=On
+option.TORCH_INTENSITY=Torch Intensity
+option.TORCH_R=Torch red
+option.TORCH_G=Torch Green
+option.TORCH_B=Torch Blue
+option.TORCH_OUTER_R=Torch Outer red
+option.TORCH_OUTER_G=Torch Outer Green
+option.TORCH_OUTER_B=Torch Outer Blue
+//---------- PostProcessing ----------//
+option.BLOOM_ENABLED=Bloom
+value.BLOOM_ENABLED.0=Off
+value.BLOOM_ENABLED.1=On
+option.BLOOM_INTENSITY=Bloom Intensity
+option.BLOOM_RADIUS=Bloom Radius
+option.BLOOM_THRESHOLD=Bloom Threshold
+option.TONEMAPPING_MODE=Tonemapping
+value.TONEMAPPING_MODE.0=Off
+value.TONEMAPPING_MODE.1=ACES
+value.TONEMAPPING_MODE.2=Reinhard
+value.TONEMAPPING_MODE.3=Filmic
+option.EXPOSURE=Exposure
+option.CONTRAST=Contrast
+option.SATURATION=Saturation
+option.VIBRANCE=Vibrance
+//---------- Godray ----------//
+option.GODRAYS_ENABLED=Godray
+value.GODRAYS_ENABLED.0=Off
+value.GODRAYS_ENABLED.1=On
+option.GODRAYS_STRENGTH=Godray Strenght
+option.GODRAYS_LENGTH=Godray Length
+option.GODRAYS_SAMPLES=Godray Samples
+option.GODRAYS_BLUR=Godray Blur
+option.GODRAYS_COLOR_R=Godray Color Red
+option.GODRAYS_COLOR_G=Godray Color Green
+option.GODRAYS_COLOR_B=Godray Color Blue
+option.GODRAYS_RADIUS=Godray Radius
